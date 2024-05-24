@@ -1,0 +1,2 @@
+head()- It will show top five rows along with their data
+info()- It will show complete info. of ur data  
